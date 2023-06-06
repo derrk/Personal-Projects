@@ -3,4 +3,4 @@
 
 | Project | Project Link | Description |
 | :--:    | ------------ | ----------- |
-|Counter App | [Counter App]([url](https://github.com/derrk/Personal-Projects/tree/main/JavaScriptJourney/template)) | Simple Counter App |
+|Counter App | [Counter App](https://github.com/derrk/Personal-Projects/tree/main/JavaScriptJourney/template) | Simple Counter App |
